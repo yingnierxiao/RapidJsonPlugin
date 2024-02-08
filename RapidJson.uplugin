@@ -16,7 +16,7 @@
 	"Modules": [
 		{
 			"Name": "RapidJson",
-			"Type": "Developer",
+			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
 	]
